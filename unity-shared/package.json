@@ -1,0 +1,14 @@
+{
+  "name": "com.digger-online.shared",
+  "displayName": "Digger Shared",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Shared package between client and server",  
+  "dependencies": {
+    "com.firstgeargames.fishnet": "4.6.9"
+  },
+  "author": {
+    "name": "Digger Online",
+    "email": "misha375375@gmail.com"
+  }
+}
